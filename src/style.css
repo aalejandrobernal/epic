@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
 :root {
+  --colorA:#001d3b; 
+
+
+
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
@@ -11,9 +18,9 @@
   --shadow:
     rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
+  /* --sans: system-ui, 'Segoe UI', Roboto, sans-serif; */
+  --Bebas: 'Bebas Neue';
+  --Lato: 'Lato';
 
   font: 18px/145% var(--sans);
   letter-spacing: 0.18px;
@@ -32,6 +39,9 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
+
+
+    
     --text: #9ca3af;
     --text-h: #f3f4f6;
     --bg: #16171d;
@@ -52,13 +62,21 @@
 
 body {
   margin: 0;
+  font-family: var(--Lato);
+  background-color: var(--colorA);
 }
 
 h1,
 h2 {
-  font-family: var(--heading);
+  font-family: var(--Bebas);
   font-weight: 500;
   color: var(--text-h);
+}
+.navbar-brand {
+  font-family: var(--Bebas);
+  font-weight: 500;
+  color: var(--text-h);
+  text-align: left;
 }
 
 h1 {
@@ -84,8 +102,7 @@ p {
 }
 
 code,
-.counter {
-  font-family: var(--mono);
+.counter {  
   display: inline-flex;
   border-radius: 4px;
   color: var(--text-h);
@@ -161,7 +178,6 @@ code {
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
-  border-inline: 1px solid var(--border);
   min-height: 100svh;
   display: flex;
   flex-direction: column;
@@ -293,4 +309,13 @@ code {
     right: 0;
     border-right-color: var(--border);
   }
+}
+/* --------------------estilos por james--------------------------------- */
+
+.navbar{
+  background-color: var(--colorA);
+}
+
+footer{
+  background: var(--colorA);
 }
