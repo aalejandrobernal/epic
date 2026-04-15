@@ -1,4 +1,3 @@
-cat > src/views/Home.vue << 'EOF'
 <template>
   <div>
     <section class="bg-primary text-white text-center py-5">
@@ -10,4 +9,3 @@ cat > src/views/Home.vue << 'EOF'
     </section>
   </div>
 </template>
-EOF
