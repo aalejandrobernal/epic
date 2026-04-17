@@ -1,6 +1,6 @@
 <template>
   <div class="container py-5">
-    <h2 class="text-center mb-4">Nuestros Servicios</h2>
+    <h1 class="text-center mb-4">Our services </h1>
     <div class="row">
       <div class="col-md-4 mb-4">
         <div class="card h-100 shadow-sm">
