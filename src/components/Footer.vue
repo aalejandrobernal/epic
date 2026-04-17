@@ -34,13 +34,13 @@
           </div>
 
           <!-- Products -->
-          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+          <!-- <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
             <h6 class="text-uppercase fw-bold mb-4">Services</h6>
             <p><a href="#" class="text-reset">Diseño</a></p>
             <p><a href="#" class="text-reset">Construcción</a></p>
             <p><a href="#" class="text-reset">Remodelación</a></p>
             <p><a href="#" class="text-reset">Consultoría</a></p>
-          </div>
+          </div> -->
 
           <!-- Links
           <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">

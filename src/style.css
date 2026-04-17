@@ -362,6 +362,7 @@ a:hover {
    
 }
 
+
 /* main  */
 
 .home .card {
@@ -441,10 +442,7 @@ a:hover {
 
 /* Para móviles */
 @media (max-width: 768px) {
-  .carousel-caption-custom {
-    bottom: 5%;
-    padding: 10px;
-  }
+ 
   
   .carousel-caption-custom h1 {
     font-size: 2.5rem;
