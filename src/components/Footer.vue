@@ -1,5 +1,5 @@
 <template>
-  <footer class="text-center text-lg-start text-white">
+  <footer class="text-center text-lg-start text-white ">
 
     <!-- Social media -->
     <!-- <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
@@ -20,7 +20,7 @@
 
     <!-- Links -->
     <section>
-      <div class="container text-center text-md-start mt-5">
+      <div class="container text-center text-md-start mt-5 pb-3">
         <div class="row mt-3">
 
           <!-- Company -->
@@ -57,7 +57,8 @@
 
             <p><i class="fas fa-home me-3"></i>New York, EE. UU</p>
             <a href="mailto:info@alliancerestorationgrp.com"><i class="fas fa-envelope me-3"></i> info@alliancerestorationgrp.com</a>
-            <p><i class="fas fa-phone me-3"></i> +1 347 456 4714</p>
+            <p><i class="fas fa-phone me-3"></i> +1 (347) 479-9048</p>
+            <p><i class="fas fa-phone me-3"></i> +1 (347) 456 4714</p>            
           </div>
 
         </div>
