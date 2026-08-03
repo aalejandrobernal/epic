@@ -16,7 +16,7 @@
         <div class="overlay-dark"></div>
         <!-- Texto centrado abajo -->
         <div class="carousel-caption-custom">
-          <h1>We are<br>EPICBUILD CONSTRUCTIONS INC</h1>
+          <h1>We are<br>Alliance Restoration Group</h1>
           <p>Discover our vast knowledge in construction</p>
         </div>
       </div>
@@ -39,10 +39,6 @@
         </div>
       </div>
     </div>
-
- 
-   
-
   </div>
 </template>
 

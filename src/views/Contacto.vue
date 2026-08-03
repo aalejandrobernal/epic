@@ -1,7 +1,7 @@
 <style>
 .contact .btn{
     color: white;
-    background-color: #001d3b !important;
+    background-color: #D20418 !important;
     border-color: #001d3b!important;
 }
 .contact .btn:hover{
@@ -11,7 +11,7 @@
 </style>
 <template>
   <div class="container py-5">
-    <h2 class="text-center mb-4">Contact Us</h2>
+    <h1 class="text-center mb-4 section-title">Contact Us</h1>
     <div class="row justify-content-center">
       <div class="col-md-6">
         <div class="card shadow-sm contact">

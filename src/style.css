@@ -2,9 +2,8 @@
 
 
 :root {
-  --colorA:#001d3b; 
-
-
+  --colorA:#04295E; 
+  --colorB:#D20418;
 
   --text: #6b6375;
   --text-h: #08060d;
@@ -41,10 +40,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-
-
-    
+  :root {    
     --text: #9ca3af;
     --text-h: #f3f4f6;
     --bg: #16171d;
@@ -66,7 +62,13 @@
 body {
   margin: 0;
   font-family: var(--Lato);
-  background-color: var(--colorA);
+  background-color: var(--white);
+}
+
+.text_home{
+  color: var(--colorA)!important;
+  /* font-weight: 700; */
+  font-size: 1.2rem;
 }
 
 h1,
@@ -112,7 +114,10 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
-
+.contact{
+  background: var(--colorA);
+  color: var(--white);
+}
 
 .counter {
   font-size: 16px;
@@ -330,7 +335,7 @@ code {
 }
 
 footer{
-  background: var(--colorA);
+  background: var(--colorB);
 }
 
 .navbar-brand {
@@ -366,9 +371,11 @@ a:hover {
 /* main  */
 
 .home .card {
-   background-color: #000000;
-   color: var(--white);
+   background-color: var(--white);
+   color: var(--colorA);
     border-radius: 0;
+    font-weight: 600;
+    border: 0;
 }
 
 .title h1,.title h2{
@@ -384,16 +391,20 @@ a:hover {
   color: var(--colorA)!important;
 }
 
-.container img{
-  /* object-fit: contain;
-  width: 5%;
-  border: 0px; */
+/* Asegura que el contenedor de la marca/logo se pegue a la izquierda */
+.container > a {
+  margin-right: auto; /* Empuja el resto de elementos hacia la derecha */
+  display: flex;
+  justify-content: flex-start;
 }
 
-.logo2{
-  object-fit: cover!important;
-  width: 10%;
+/* Ajustes opcionales para la imagen */
+.logo2 {
+  display: block;
+  max-height: 100px; /* Ajusta la altura según tu diseño */
+  width: auto;
 }
+
 .logo_title{
   object-fit: cover!important;
   width: 38%;

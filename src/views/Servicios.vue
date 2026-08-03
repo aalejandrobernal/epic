@@ -1,6 +1,6 @@
 <style>
 .services-header {
-  background-color: #000000;
+  background-color:#D20418;
   color: white;
   padding: 3rem 0;
   text-align: center;
@@ -27,7 +27,7 @@
 
 .section-title {
   color: #001d3b;
-  border-left: 5px solid #ffaa00;
+  
   padding-left: 1rem;
   margin: 2rem 0 1.5rem 0;
 }
@@ -84,9 +84,9 @@
     <!-- Introduction -->
     <div class="row mb-4">
       <div class="col-12 text-center">
-        <h1 class="section-title d-inline-block text-white"
+        <h1 class="section-title d-inline-block text-home"
           style="border-left: none; padding-bottom: 0.5rem;">Our Services</h1>
-        <p class="mt-3 text-white">We are a competitive restoration company with a highly trained staff, allowing us to deliver
+        <p class="mt-3 text-home">We are a competitive restoration company with a highly trained staff, allowing us to deliver
           tailored solutions for every project, ensuring structural safety, durability, and aesthetics.</p>
       </div>
     </div>

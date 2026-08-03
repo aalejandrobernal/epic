@@ -26,7 +26,7 @@
           <!-- Company -->
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <h6 class="text-uppercase fw-bold mb-4">
-              <i class="fas fa-gem me-3"></i>EpicBuild Constructions Inc
+              <i class="fas fa-gem me-3"></i>Alliance Restoration Group
             </h6>
             <p>
               We build modern and safe solutions for your engineering and architecture projects.
@@ -56,7 +56,7 @@
             <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
 
             <p><i class="fas fa-home me-3"></i>New York, EE. UU</p>
-            <a href="mailto:info@epicbuildco.com"><i class="fas fa-envelope me-3"></i> info@epicbuildco.com</a>
+            <a href="mailto:info@alliancerestorationgrp.com"><i class="fas fa-envelope me-3"></i> info@alliancerestorationgrp.com</a>
             <p><i class="fas fa-phone me-3"></i> +1 347 456 4714</p>
           </div>
 
@@ -65,8 +65,8 @@
     </section>
 
     <!-- Copyright -->
-    <div class="text-center p-3" style="background-color: #000000">
-      © {{ year }} EpicBuild Constructions Inc. All rights reserved. <br>
+    <div class="text-center p-1" style="background-color: #04295E">
+      © {{ year }} Alliance Restoration Group. All rights reserved. <br>
        <p style="font-size:.7rem">Designed and developed by <strong>James Nuñez</strong></p>
     </div>
 

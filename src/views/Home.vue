@@ -19,7 +19,7 @@ import Carousel from '@/components/Carousel.vue'
 
   <div class="container home">
     <div class="row my-5">
-      <div class="col-12 text-start text-white ">
+      <div class="col-12 text-start text_home ">
         <p class=" text-start ">We are a competitive restoration company with a highly trained staff. This
           allows us to offer customized solutions for small, medium, and large projects in the construction and
           maintenance of facades and buildings.

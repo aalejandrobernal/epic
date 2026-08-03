@@ -3,8 +3,9 @@
         <div class="container">
             
             <router-link class=" fw-bold text-star title" to="/">
-                <img class="logo2" src="/src/assets/logo2.png" alt="">
-            <img class="logo_title" src="/src/assets/logo_title.png" alt="">
+                <img class="logo2" src="/src/assets/aliance vertical2.png" alt="">
+                <!-- <img class="logo2" src="/src/assets/logo2.png" alt="">
+            <img class="logo_title" src="/src/assets/logo_title.png" alt=""> -->
                 <!-- <h1>EPICBUILD</h1>  
                 <h2 class="title2">CONSTRUCTIONS INC</h2> -->
             </router-link>
