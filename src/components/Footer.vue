@@ -57,8 +57,7 @@
 
             <p><i class="fas fa-home me-3"></i>New York, EE. UU</p>
             <a href="mailto:info@alliancerestorationgrp.com"><i class="fas fa-envelope me-3"></i> info@alliancerestorationgrp.com</a>
-            <p><i class="fas fa-phone me-3"></i> +1 (347) 479-9048</p>
-            <p><i class="fas fa-phone me-3"></i> +1 (347) 456 4714</p>            
+            <p><i class="fas fa-phone me-3"></i> +1 (347) 479-9048</p>            
           </div>
 
         </div>

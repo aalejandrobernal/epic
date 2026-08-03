@@ -17,7 +17,7 @@
         <div class="card shadow-sm contact">
           <div class="card-body ">
 
-            <form action="https://formsubmit.co/info@epicbuildco.com" method="POST">
+            <form action="https://formsubmit.co/info@alliancerestorationgrp.com" method="POST">
               <!-- Form fields -->
               <div class="mb-3">
                 <label for="name" class="form-label">Full name</label>
