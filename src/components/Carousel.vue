@@ -11,7 +11,7 @@
     <!-- Slides -->
     <div class="carousel-inner">
       <div class="carousel-item active position-relative">
-        <img src="../assets/WhatsApp Image 2025-12-09 at 5.24.45 PM (6).jpg" class="d-block w-100" />
+        <img src="../assets/diane-picchiottino-xvIEtL3R84Q-unsplash.jpg" class="d-block w-100" />
         <!-- Capa oscura que cubre toda la imagen -->
         <div class="overlay-dark"></div>
         <!-- Texto centrado abajo -->
@@ -22,7 +22,7 @@
       </div>
 
       <div class="carousel-item position-relative">
-        <img src="../assets/WhatsApp Image 2025-12-09 at 5.24.45 PM (3).jpg" class="d-block w-100" />
+        <img src="../assets/diane-picchiottino-22g_IfzvabQ-unsplash.jpg" class="d-block w-100" />
         <div class="overlay-dark"></div>
         <div class="carousel-caption-custom">
           <h2>Durability and aesthetics</h2>
@@ -31,7 +31,7 @@
       </div>
 
       <div class="carousel-item position-relative">
-        <img src="../assets/WhatsApp Image 2025-12-09 at 5.24.47 PM (3).jpg" class="d-block w-100" />
+        <img src="../assets/nick-night-M3FDtkhmMFQ-unsplash.jpg" class="d-block w-100" />
         <div class="overlay-dark"></div>
         <div class="carousel-caption-custom">
           <h2>Structural safety</h2>

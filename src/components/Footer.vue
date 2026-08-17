@@ -26,10 +26,11 @@
           <!-- Company -->
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <h6 class="text-uppercase fw-bold mb-4">
-              <i class="fas fa-gem me-3"></i>Alliance Restoration Group
+              Alliance Restoration Group
             </h6>
             <p>
-              We build modern and safe solutions for your engineering and architecture projects.
+              Experts in restoration. <br>
+                Committed to excellence.
             </p>
           </div>
 
@@ -55,7 +56,7 @@
           <div class="col-md-4 col-lg-4 col-xl-3 mx-auto mb-md-0 mb-4">
             <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
 
-            <p><i class="fas fa-home me-3"></i>New York, EE. UU</p>
+            <p><i class="fas fa-home me-3"></i>New York. US</p>
             <a href="mailto:info@alliancerestorationgrp.com"><i class="fas fa-envelope me-3"></i> info@alliancerestorationgrp.com</a>
             <p><i class="fas fa-phone me-3"></i> +1 (347) 479-9048</p>            
           </div>

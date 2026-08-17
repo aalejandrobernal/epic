@@ -1,5 +1,7 @@
 <script setup>
 import Carousel from '@/components/Carousel.vue'
+import MuuriGrid from '@/components/MuuriGrid.vue'
+import SwiperCarousel from '@/components/SwiperCarousel.vue'
 </script>
 
 <template>
@@ -13,9 +15,11 @@ import Carousel from '@/components/Carousel.vue'
       </div>
     </section>
   </div> -->
-  <div class="container">
+  <div class="">
     <Carousel />
   </div>
+
+  
 
   <div class="container home">
     <div class="row my-5">
@@ -31,16 +35,17 @@ import Carousel from '@/components/Carousel.vue'
           <li class="list-group-item">Structural safety</li>
           <li class="list-group-item">Comprehensive rehabilitation</li>
         </ul>
-
         <p>
           We work with technical skill, expertise, and commitment to preserve the lifespan of each building.
         </p>
-      </div>
-      
+      </div>      
 
     </div>
     <div class="row mt-3">
-  <div class="col-md-4 col-6">
+    <div class="container">
+      <MuuriGrid />
+    </div>
+  <!-- <div class="col-md-4 col-6">
     <div class="card">
       <img class="card-img-top" src="/src/assets/terraza.jpeg" alt="Card image cap">
       <div class="card-body">
@@ -63,8 +68,12 @@ import Carousel from '@/components/Carousel.vue'
         <p class="card-text">Innovation and development for small, medium and large projects.</p>
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
   </div>
+<hr class="my-5 py-2">
+ <div class="container">
+      <SwiperCarousel />
+ </div>
 
 </template>
