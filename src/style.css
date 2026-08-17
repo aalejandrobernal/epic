@@ -425,7 +425,7 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.7); /* Ajusta la opacidad: 0.5 = 50%, 0.8 = 80% */
+  background-color: rgba(0, 0, 0, 0.28); /* Ajusta la opacidad: 0.5 = 50%, 0.8 = 80% */
   z-index: 1;
 }
 

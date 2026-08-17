@@ -17,7 +17,7 @@
         <!-- Texto centrado abajo -->
         <div class="carousel-caption-custom">
           <h1>We are<br>Alliance Restoration Group</h1>
-          <p>Discover our vast knowledge in construction</p>
+          <p>Discover our extensive construction expertise</p>
         </div>
       </div>
 

@@ -13,25 +13,25 @@ let grid = null
 const items = [
   {
     id: 1,
-    title: 'Facade restoration',
+    title: 'Facade Restoration',
     address: '_______________________________',
     image: facade
   },
   {
     id: 2,
-    title: 'Roofing systems',
+    title: 'Roofing Systems',
     address: '__________________________',
     image: Roofing
   },
   {
     id: 3,
-    title: 'Structural repairs',
+    title: 'Structural Repairs',
     address: '____________________________',
     image: Structural
   },
   {
     id: 4,
-    title: 'Parking garage restaurations',
+    title: 'Parking Garage Restoration',
     address: '________________________________________________',
     image: Parking
   }
